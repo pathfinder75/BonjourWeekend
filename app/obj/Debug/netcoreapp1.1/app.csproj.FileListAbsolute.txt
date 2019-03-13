@@ -1,9 +1,0 @@
-/Users/yves/Projects/BonjourWeekend/app/bin/Debug/netcoreapp1.1/app.deps.json
-/Users/yves/Projects/BonjourWeekend/app/bin/Debug/netcoreapp1.1/app.runtimeconfig.json
-/Users/yves/Projects/BonjourWeekend/app/bin/Debug/netcoreapp1.1/app.runtimeconfig.dev.json
-/Users/yves/Projects/BonjourWeekend/app/obj/Debug/netcoreapp1.1/app.csproj.CoreCompileInputs.cache
-/Users/yves/Projects/BonjourWeekend/app/obj/Debug/netcoreapp1.1/app.AssemblyInfo.cs
-/Users/yves/Projects/BonjourWeekend/app/bin/Debug/netcoreapp1.1/app.dll
-/Users/yves/Projects/BonjourWeekend/app/bin/Debug/netcoreapp1.1/app.pdb
-/Users/yves/Projects/BonjourWeekend/app/obj/Debug/netcoreapp1.1/app.dll
-/Users/yves/Projects/BonjourWeekend/app/obj/Debug/netcoreapp1.1/app.pdb
